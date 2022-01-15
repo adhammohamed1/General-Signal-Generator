@@ -1,6 +1,9 @@
 # General-Signal-Generator
 MATLAB program to generate a custom signal and do multiple operations on it.
 
+In the following sample run, I used 3 signals, two of which were DC, just to keep things short.
+You can enter as much as you want of course.
+
 Sample Run:
 
 ![1](https://user-images.githubusercontent.com/90573502/149621682-23338811-80af-4744-90ef-516963b515e1.jpg)
