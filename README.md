@@ -1,10 +1,41 @@
 # General-Signal-Generator
 MATLAB program to generate a custom signal and do multiple operations on it.
 
-In the following sample run, I used 3 signals, two of which were DC, just to keep things short.
-You can enter as much as you want of course.
+## Table of Contents
+* [Program Functionality](#program-functionality)
+  - [Defining the signal](#defining-the-signal)
+  - [Supported Signal Types](#supported-signal-types)
+  - [Supported Operations](#supported-operations)
+* [Sample Run](#sample-run)
+* [Contributors](#contributors)
 
-Sample Run:
+
+## Program Functionality
+### Defining the Signal
+1. Determine the sampling rate.
+2. Determine the bounds. (begin and end time)
+3. Determine the number of breakpoints.
+4. Choose signal type from the list.
+5. Operate at will.
+
+### Supported Signal Types
+1. DC Signal
+2. Ramp Signal
+3. General Order Polynomial
+4. Exponential Signal
+5. Sinusoidal Signal
+
+### Supported Operations
+1. Amplitude Scaling
+2. Time Shift
+3. Time Reversal
+4. Signal Compression
+5. Signal Expansion
+
+
+## Sample Run
+
+### In the following sample run, I used 3 signals, two of which were DC, just to keep things short. You can enter as much as you want of course.
 
 ![1](https://user-images.githubusercontent.com/90573502/149621682-23338811-80af-4744-90ef-516963b515e1.jpg)
 
@@ -16,7 +47,7 @@ Sample Run:
 
 .
 .
-Then, I chose ramp signal.
+**Then, I chose ramp signal.**
 .
 .
 
@@ -28,7 +59,7 @@ Then, I chose ramp signal.
 
 .
 .
-Then, I chose DC signal.
+**Then, I chose DC signal.**
 .
 .
 
@@ -38,7 +69,7 @@ Then, I chose DC signal.
 
 .
 .
-Then, I chose DC signal.
+**Then, I chose DC signal.**
 .
 .
 
@@ -48,10 +79,12 @@ Then, I chose DC signal.
 
 .
 .
-Then, I chose time reversal.
+**Then, I chose time reversal.**
 .
 .
 
 ![12 - time reversal](https://user-images.githubusercontent.com/90573502/149621772-ca944ef9-5967-4390-b88b-b0cd854d1130.jpg)
 
-
+## Contributors
+1. [Yousef Kotp](https://github.com/yousefkotp)
+2. [Adham Mohamed](https://github.com/adhammohamed1)
